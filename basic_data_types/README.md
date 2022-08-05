@@ -1,6 +1,6 @@
-# Badic Data Types 
+# Basic Data Types 
 
-# What is inside the repo 
+# What's inside this repo !
 
 - List 
 - List Comprehension
